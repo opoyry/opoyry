@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @opoyry
+- 👋 Hi, I’m Olli Pöyry
 - 📫 How to reach me olli.poyry@essaim.fi
 
 <!---
